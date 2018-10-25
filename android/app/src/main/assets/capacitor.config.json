@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.app",
+  "appName": "week7",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
